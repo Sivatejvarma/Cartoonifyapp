@@ -4,7 +4,9 @@
 CartoonifyApp
 CartoonifyApp is a Python application that allows users to cartoonify their images using OpenCV and Tkinter.
 
-result appearance
+result appearance :
+![WhatsApp Image 2024-02-15 at 19 50 44_f4949114](https://github.com/Sivatejvarma/Cartoonifyapp/assets/121592407/9a2a47de-8221-4fd0-9a67-0576169eef7f)
+
 
 **Features**
 Upload an image and cartoonify it.
